@@ -169,8 +169,7 @@ A través de este proyecto se fortalecieron conocimientos en:
 ## 👨‍💻 Autores
 Trabajo realizado por estudiantes de tercer semestre de Ingeniería en Inteligencia Artificial de la Escuela Colombiana de Ingeniería Julio Garavito:
 
-- Andres Steeven Oyuela Mendez
-  Andres.Oyuela.Mendez@gmail.com
+- Andres Steeven Oyuela Mendez, Andres.Oyuela.Mendez@gmail.com
 - Juan David Rojas Heredia
   
 ---

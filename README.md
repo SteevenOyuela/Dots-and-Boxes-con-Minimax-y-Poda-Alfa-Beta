@@ -169,8 +169,10 @@ A través de este proyecto se fortalecieron conocimientos en:
 ## 👨‍💻 Autores
 Trabajo realizado por estudiantes de tercer semestre de Ingeniería en Inteligencia Artificial de la Escuela Colombiana de Ingeniería Julio Garavito:
 
-- Andres Steeven Oyuela Mendez  
+- Andres Steeven Oyuela Mendez
+  Andres.Oyuela.Mendez@gmail.com
 - Juan David Rojas Heredia
+  
 ---
 ## 📌 Conclusión
 La implementación realizada evidencia cómo los algoritmos de búsqueda adversaria permiten a un agente tomar decisiones racionales en juegos competitivos. La combinación de teoría y práctica demuestra la aplicabilidad de los fundamentos de la inteligencia artificial en problemas reales de toma de decisiones.
